@@ -1,0 +1,25 @@
+:root {
+  --btn-primary: #008000; 
+  --btn-secondary: #FFD700; /* Bold Gold */
+  --btn-info: #FF0000; /* Bright Red */
+  --btn-dark: #2F4F4F; /* Dark Slate */
+  --btn-light: #F5F5F5; /* Off-White */
+  --btn-gray-600: #D3D3D3; /* Light Grey */
+  --btn-gray-800: #36454F; /* Charcoal */
+}
+
+
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
